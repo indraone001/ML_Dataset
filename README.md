@@ -1,2 +1,2 @@
 # ML_Dataset
-weather dataset for learn about machine learning
+sample dataset for learn about machine learning
